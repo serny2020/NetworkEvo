@@ -1,2 +1,2 @@
 # NetworkEvo
-Implementation of Network Evolution Model for the stress softening behavior in rubber-like material
+Implementation of simulating and visualizing the stress-strain relationship (via the First Piola stress tensor) for a material undergoing stretching and unloading. 
